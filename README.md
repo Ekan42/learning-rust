@@ -1,1 +1,3 @@
-# learning-rust
+# Learning Rust
+
+Some experiments with Rust.
